@@ -1,0 +1,147 @@
+<<<<<<< HEAD
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.barre-navigation{
+    height: 60px;
+    width: 100%;
+    background-image: linear-gradient(to right, rgb(127, 58, 192),rgb(96, 130, 194));
+}
+
+#bouton-navigation{
+    height: 100%;
+    width: 10%;
+    float:right;
+    text-decoration: none;
+    text-align: center;
+    font-family: Leelawadee UI;
+    color: white;
+    font-weight: bold;
+    transition: text-shadow 0.25s, border-color 0.25s;
+}
+
+#bouton-navigation:hover{
+    text-shadow: 1px 2px black;
+}
+
+.bouton-navigation{
+    position: relative;
+    top: 17px;
+}
+
+/*Accueil*/
+.background {
+	background-color: white;
+	height: 100%;
+	width: 100%;
+    z-index: 0;
+}
+
+.partie1{
+	font-size:30px;
+	height:200px;
+	width:97.8%;
+	background-color:Gray;
+	float:left;
+	border: 5px solid black;
+    padding: 10px;
+	
+}
+
+
+.inscription{
+	background-color:orange;
+	font-size:25px;
+	height:450px;
+	width:47.05%;
+	float: left;
+	border: 5px solid black;
+    padding: 10px;
+}
+
+.connexion{
+	font-size:25px;
+	background-color:orange;
+	height:450px;
+	width:48.5%;
+	float: right;
+	border: 5px solid black;
+    padding: 10px;
+}
+
+=======
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.barre-navigation{
+    height: 60px;
+    width: 100%;
+    background-image: linear-gradient(to right, rgb(127, 58, 192),rgb(96, 130, 194));
+}
+
+#bouton-navigation{
+    height: 100%;
+    width: 10%;
+    float:right;
+    text-decoration: none;
+    text-align: center;
+    font-family: Leelawadee UI;
+    color: white;
+    font-weight: bold;
+    transition: text-shadow 0.25s, border-color 0.25s;
+}
+
+#bouton-navigation:hover{
+    text-shadow: 1px 2px black;
+}
+
+.bouton-navigation{
+    position: relative;
+    top: 17px;
+}
+
+/*Accueil*/
+.background {
+	background-color: white;
+	height: 100%;
+	width: 100%;
+    z-index: 0;
+}
+
+.partie1{
+	font-size:30px;
+	height:200px;
+	width:97.8%;
+	background-color:Gray;
+	float:left;
+	border: 5px solid black;
+    padding: 10px;
+	
+}
+
+
+.inscription{
+	background-color:orange;
+	font-size:25px;
+	height:450px;
+	width:47.05%;
+	float: left;
+	border: 5px solid black;
+    padding: 10px;
+}
+
+.connexion{
+	font-size:25px;
+	background-color:orange;
+	height:450px;
+	width:48.5%;
+	float: right;
+	border: 5px solid black;
+    padding: 10px;
+}
+
+>>>>>>> e7bcf90e2e8c4adda2d386b3a3e76bde97cff407
